@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.sheltiefusafusa.testplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sheltiefusafusa.testplugin.MyBundle
 
 class MyApplicationService {
 
